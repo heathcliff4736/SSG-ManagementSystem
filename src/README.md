@@ -117,7 +117,7 @@ ManagementSystem/
 ---
 
 ## 라이선스
-본 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](LICENSE)를 참고하세요.
+본 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](../LICENSE)를 참고하세요.
 
 ---
 
